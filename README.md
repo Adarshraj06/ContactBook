@@ -96,13 +96,6 @@ The count check and insertion are performed inside a Room database transaction t
 
 4. Run the application on an Android emulator or physical device.
 
-## Assignment Details
-
-- **Course:** Android App Deployment
-- **Course Code:** CSE226
-- **Academic Task:** Task 3
-- **Topic:** Contact Book Application using Room Database
-- **University:** Lovely Professional University
 
 ## Learning Outcomes
 
